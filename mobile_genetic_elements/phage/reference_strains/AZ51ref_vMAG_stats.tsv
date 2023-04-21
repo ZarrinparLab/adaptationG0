@@ -1,0 +1,4 @@
+	VIRSorter category	Circular	Prophage	Gene count	Strand switches	potential AMG count	Transposase present	Possible Non-Viral Contig	Viral genes with unknown function	Viral genes with host benefits	Viral structure genes	Viral hypothetical genes	Viral replication genes	Viral genes with viral benefits
+1__0_partial_1-cat_1	1	False	False	61	11	0	False	0.08196721311475409	20	7	14	10	5.0	5.0
+1__1_partial_1-cat_1	1	False	False	45	7	0	False	0.06666666666666667	11	6	11	12	1.0	4.0
+1__2_partial_1-cat_1	1	False	False	15	3	0	False	0.0	2	1	1	11	0.0	0.0

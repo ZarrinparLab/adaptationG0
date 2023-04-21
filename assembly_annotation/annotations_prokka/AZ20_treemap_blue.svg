@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="884.321704pt" height="558pt" viewBox="0 0 884.321704 558" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-06-20T13:30:49.847020</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 558 
+L 884.321704 558 
+L 884.321704 0 
+L 0 0 
+L 0 558 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 40.121704 550.8 
+L 169.925171 550.8 
+L 169.925171 470.817395 
+L 40.121704 470.817395 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #6aaed6; opacity: 0.8"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 40.121704 470.817395 
+L 169.925171 470.817395 
+L 169.925171 294.563669 
+L 40.121704 294.563669 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #bcd7eb; opacity: 0.8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 40.121704 294.563669 
+L 169.925171 294.563669 
+L 169.925171 86.362653 
+L 40.121704 86.362653 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #08509b; opacity: 0.8"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 40.121704 86.362653 
+L 169.925171 86.362653 
+L 169.925171 55.201901 
+L 40.121704 55.201901 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #3181bd; opacity: 0.8"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 40.121704 55.201901 
+L 169.925171 55.201901 
+L 169.925171 7.2 
+L 40.121704 7.2 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #083776; opacity: 0.8"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 169.925171 550.8 
+L 327.525323 550.8 
+L 327.525323 452.778441 
+L 169.925171 452.778441 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #1a68ae; opacity: 0.8"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 327.525323 550.8 
+L 460.472909 550.8 
+L 460.472909 452.778441 
+L 327.525323 452.778441 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #e4eff9; opacity: 0.8"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 460.472909 550.8 
+L 684.397915 550.8 
+L 684.397915 452.778441 
+L 460.472909 452.778441 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #d8e7f5; opacity: 0.8"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 684.397915 550.8 
+L 877.121704 550.8 
+L 877.121704 452.778441 
+L 684.397915 452.778441 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #c6dbef; opacity: 0.8"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 169.925171 452.778441 
+L 274.454931 452.778441 
+L 274.454931 313.032322 
+L 169.925171 313.032322 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #eaf3fb; opacity: 0.8"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 169.925171 313.032322 
+L 274.454931 313.032322 
+L 274.454931 232.902335 
+L 169.925171 232.902335 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #f1f7fd; opacity: 0.8"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 169.925171 232.902335 
+L 274.454931 232.902335 
+L 274.454931 186.73843 
+L 169.925171 186.73843 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #4191c6; opacity: 0.8"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 169.925171 186.73843 
+L 274.454931 186.73843 
+L 274.454931 62.259626 
+L 169.925171 62.259626 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #f7fbff; opacity: 0.8"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 169.925171 62.259626 
+L 274.454931 62.259626 
+L 274.454931 7.2 
+L 169.925171 7.2 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #91c3de; opacity: 0.8"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 274.454931 452.778441 
+L 497.710655 452.778441 
+L 497.710655 356.704707 
+L 274.454931 356.704707 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #84bcdb; opacity: 0.8"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 497.710655 452.778441 
+L 610.573096 452.778441 
+L 610.573096 356.704707 
+L 497.710655 356.704707 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #084082; opacity: 0.8"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 610.573096 452.778441 
+L 785.258276 452.778441 
+L 785.258276 356.704707 
+L 610.573096 356.704707 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #a8cee4; opacity: 0.8"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 785.258276 452.778441 
+L 877.121704 452.778441 
+L 877.121704 356.704707 
+L 785.258276 356.704707 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #d2e3f3; opacity: 0.8"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 274.454931 356.704707 
+L 418.841152 356.704707 
+L 418.841152 330.708446 
+L 274.454931 330.708446 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #9dcae1; opacity: 0.8"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 274.454931 330.708446 
+L 418.841152 330.708446 
+L 418.841152 275.829762 
+L 274.454931 275.829762 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #56a0ce; opacity: 0.8"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 274.454931 275.829762 
+L 418.841152 275.829762 
+L 418.841152 180.511872 
+L 274.454931 180.511872 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #77b5d9; opacity: 0.8"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 274.454931 180.511872 
+L 418.841152 180.511872 
+L 418.841152 7.2 
+L 274.454931 7.2 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #2979b9; opacity: 0.8"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 418.841152 356.704707 
+L 805.728939 356.704707 
+L 805.728939 312.015633 
+L 418.841152 312.015633 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #b2d2e8; opacity: 0.8"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 805.728939 356.704707 
+L 877.121704 356.704707 
+L 877.121704 312.015633 
+L 805.728939 312.015633 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #3989c1; opacity: 0.8"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 418.841152 312.015633 
+L 426.545618 312.015633 
+L 426.545618 267.584341 
+L 418.841152 267.584341 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #deebf7; opacity: 0.8"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 426.545618 312.015633 
+L 877.121704 312.015633 
+L 877.121704 267.584341 
+L 426.545618 267.584341 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #0e58a2; opacity: 0.8"/>
+   </g>
+   <g id="patch_28">
+    <path d="M 418.841152 267.584341 
+L 569.243965 267.584341 
+L 569.243965 151.118151 
+L 418.841152 151.118151 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #ccdff1; opacity: 0.8"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 418.841152 151.118151 
+L 569.243965 151.118151 
+L 569.243965 7.2 
+L 418.841152 7.2 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #1460a8; opacity: 0.8"/>
+   </g>
+   <g id="patch_30">
+    <path d="M 569.243965 267.584341 
+L 720.367166 267.584341 
+L 720.367166 139.875586 
+L 569.243965 139.875586 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #60a7d2; opacity: 0.8"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 720.367166 267.584341 
+L 877.121704 267.584341 
+L 877.121704 139.875586 
+L 720.367166 139.875586 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #4b98ca; opacity: 0.8"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 569.243965 139.875586 
+L 720.135913 139.875586 
+L 720.135913 7.2 
+L 569.243965 7.2 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #08306b; opacity: 0.8"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 720.135913 139.875586 
+L 877.121704 139.875586 
+L 877.121704 40.009054 
+L 720.135913 40.009054 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #08488e; opacity: 0.8"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 720.135913 40.009054 
+L 877.121704 40.009054 
+L 877.121704 7.2 
+L 720.135913 7.2 
+z
+" clip-path="url(#p5a094b5635)" style="fill: #2070b4; opacity: 0.8"/>
+   </g>
+   <g id="text_1">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="105.023438" y="513.33526" transform="rotate(-0, 105.023438, 513.33526)">ATP synthesis</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="105.023438" y="385.217094" transform="rotate(-0, 105.023438, 385.217094)">Arginine and proline metabolism</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="105.023438" y="193.048317" transform="rotate(-0, 105.023438, 193.048317)">Aromatic amino acid metabolism</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="105.023438" y="73.308839" transform="rotate(-0, 105.023438, 73.308839)">Aromatics degradation</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="105.023438" y="33.78845" transform="rotate(-0, 105.023438, 33.78845)">Biosynthesis of other secondary metabolites</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="248.725247" y="504.374377" transform="rotate(-0, 248.725247, 504.374377)">Branched-chain amino acid metabolism</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="393.999116" y="504.374377" transform="rotate(-0, 393.999116, 504.374377)">Carbon fixation</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="572.435412" y="504.376721" transform="rotate(-0, 572.435412, 504.376721)">Central carbohydrate metabolism</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="780.75981" y="504.374377" transform="rotate(-0, 780.75981, 504.374377)">Cofactor and vitamin metabolism</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="222.190051" y="385.492882" transform="rotate(-0, 222.190051, 385.492882)">Cysteine and methionine metabolism</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="222.190051" y="275.493891" transform="rotate(-0, 222.190051, 275.493891)">Drug resistance</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="222.190051" y="212.346945" transform="rotate(-0, 222.190051, 212.346945)">Enediyne biosynthesis</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="222.190051" y="127.02559" transform="rotate(-0, 222.190051, 127.02559)">Fatty acid metabolism</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="222.190051" y="37.317313" transform="rotate(-0, 222.190051, 37.317313)">Glycosaminoglycan metabolism</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="386.082793" y="407.326731" transform="rotate(-0, 386.082793, 407.326731)">Histidine metabolism</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="554.141876" y="407.326731" transform="rotate(-0, 554.141876, 407.326731)">Lipid metabolism</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="697.915686" y="407.268137" transform="rotate(-0, 697.915686, 407.268137)">Lipopolysaccharide metabolism</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="831.18999" y="407.268137" transform="rotate(-0, 831.18999, 407.268137)">Lysine metabolism</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="346.648042" y="346.233139" transform="rotate(-0, 346.648042, 346.233139)">Macrolide biosynthesis</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="346.648042" y="305.85426" transform="rotate(-0, 346.648042, 305.85426)">Methane metabolism</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="346.648042" y="230.697379" transform="rotate(-0, 346.648042, 230.697379)">Nitrogen metabolism</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="346.648042" y="96.441092" transform="rotate(-0, 346.648042, 96.441092)">Other amino acid metabolism</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="612.285046" y="336.950795" transform="rotate(-0, 612.285046, 336.950795)">Other carbohydrate metabolism</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="841.425321" y="336.886733" transform="rotate(-0, 841.425321, 336.886733)">Pathogenicity</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="422.693385" y="292.32655" transform="rotate(-0, 422.693385, 292.32655)">Plant pathogenicity</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="651.833661" y="292.32655" transform="rotate(-0, 651.833661, 292.32655)">Polyamine biosynthesis</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="494.042559" y="211.877808" transform="rotate(-0, 494.042559, 211.877808)">Polyketide sugar unit biosynthesis</text>
+   </g>
+   <g id="text_28">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="494.042559" y="81.744232" transform="rotate(-0, 494.042559, 81.744232)">Purine metabolism</text>
+   </g>
+   <g id="text_29">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="644.805566" y="206.256526" transform="rotate(-0, 644.805566, 206.256526)">Pyrimidine metabolism</text>
+   </g>
+   <g id="text_30">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="798.744435" y="206.31512" transform="rotate(-0, 798.744435, 206.31512)">Serine and threonine metabolism</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="644.689939" y="76.122949" transform="rotate(-0, 644.689939, 76.122949)">Sulfur metabolism</text>
+   </g>
+   <g id="text_32">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="798.628808" y="92.468882" transform="rotate(-0, 798.628808, 92.468882)">Terpenoid backbone biosynthesis</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="798.628808" y="26.131089" transform="rotate(-0, 798.628808, 26.131089)">Type II polyketide biosynthesis</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5a094b5635">
+   <rect x="40.121704" y="7.2" width="837" height="543.6"/>
+  </clipPath>
+ </defs>
+</svg>

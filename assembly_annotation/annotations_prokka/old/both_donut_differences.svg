@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1123.219408pt" height="577.103437pt" viewBox="0 0 1123.219408 577.103437" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-06-20T14:19:39.672356</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 577.103437 
+L 1123.219408 577.103437 
+L 1123.219408 0 
+L 0 0 
+L 0 577.103437 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 782.486406 298.103437 
+C 782.486406 282.022658 780.702524 265.991389 777.167514 250.303968 
+C 773.632503 234.616547 768.368131 219.369574 761.471052 204.842985 
+L 565.046406 298.103437 
+L 782.486406 298.103437 
+z
+" style="fill: #d0e1f2"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 761.471052 204.842985 
+C 756.874687 195.162147 751.568921 185.834341 745.597146 176.935852 
+C 739.625371 168.037363 733.003912 159.592518 725.786922 151.670381 
+L 565.046406 298.103437 
+L 761.471052 204.842985 
+z
+" style="fill: #94c4df"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 725.786922 151.670381 
+C 711.333295 135.804541 694.609937 122.165729 676.161512 111.198149 
+C 657.713087 100.230569 637.742074 92.054595 616.898912 86.93651 
+L 565.046406 298.103437 
+L 725.786922 151.670381 
+z
+" style="fill: #f7fbff"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 616.898912 86.93651 
+C 609.096464 85.020602 601.193822 83.538606 593.22735 82.497343 
+C 585.260879 81.45608 577.242815 80.857148 569.210055 80.703305 
+L 565.046406 298.103437 
+L 616.898912 86.93651 
+z
+" style="fill: #1764ab"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 569.210055 80.703305 
+C 559.280225 80.513129 549.349022 81.003499 539.486228 82.170969 
+C 529.623434 83.33844 519.852204 85.18027 510.241198 87.683517 
+L 565.046406 298.103437 
+L 569.210055 80.703305 
+z
+" style="fill: #4a98c9"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 510.241198 87.683517 
+C 505.054556 89.034411 499.919634 90.576612 494.846955 92.306959 
+C 489.774276 94.037306 484.767308 95.954616 479.836312 98.05496 
+L 565.046406 298.103437 
+L 510.241198 87.683517 
+z
+" style="fill: #08306b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 479.836312 98.05496 
+C 468.004988 103.094479 456.644028 109.173675 445.887088 116.221029 
+C 435.130147 123.268383 425.019577 131.256149 415.674323 140.090355 
+L 565.046406 298.103437 
+L 479.836312 98.05496 
+z
+" style="fill: #fe9100"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 415.674323 140.090355 
+C 415.14666 140.589162 414.621499 141.090609 414.09886 141.594677 
+C 413.576221 142.098745 413.05611 142.605428 412.538547 143.114707 
+L 565.046406 298.103437 
+L 415.674323 140.090355 
+z
+" style="fill: #faed2d"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 412.538547 143.114707 
+C 406.811838 148.74975 401.401844 154.69786 396.333457 160.931668 
+C 391.265071 167.165475 386.546078 173.675404 382.198195 180.431498 
+L 565.046406 298.103437 
+L 412.538547 143.114707 
+z
+" style="fill: #ffda11"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 382.198195 180.431498 
+C 375.238808 191.245558 369.252473 202.655722 364.309616 214.527754 
+C 359.36676 226.399785 355.486842 238.686944 352.715508 251.244678 
+L 565.046406 298.103437 
+L 382.198195 180.431498 
+z
+" style="fill: #e4ff7a"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 352.715508 251.244678 
+C 350.406062 261.709459 348.873412 272.33067 348.130092 283.021445 
+C 347.386773 293.71222 347.434815 304.443335 348.273827 315.127026 
+L 565.046406 298.103437 
+L 352.715508 251.244678 
+z
+" style="fill: #f2f347"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 348.273827 315.127026 
+C 348.832859 322.245552 349.742197 329.332222 350.998534 336.361272 
+C 352.25487 343.390322 353.856682 350.353223 355.798145 357.224661 
+L 565.046406 298.103437 
+L 348.273827 315.127026 
+z
+" style="fill: #ffa200"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 355.798145 357.224661 
+C 357.739608 364.096098 360.018367 370.867734 362.626136 377.514949 
+C 365.233906 384.162164 368.167522 390.676892 371.416319 397.035449 
+L 565.046406 298.103437 
+L 355.798145 357.224661 
+z
+" style="fill: #ffaa00"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 371.416319 397.035449 
+C 374.665116 403.394006 378.225152 409.588676 382.083483 415.596937 
+C 385.941815 421.605199 390.093761 427.419761 394.524226 433.019485 
+L 565.046406 298.103437 
+L 371.416319 397.035449 
+z
+" style="fill: #fe9900"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 394.524226 433.019485 
+C 397.375178 436.622841 400.33963 440.134926 403.413115 443.550448 
+C 406.4866 446.96597 409.667575 450.283215 412.951248 453.497184 
+L 565.046406 298.103437 
+L 394.524226 433.019485 
+z
+" style="fill: #ffce0a"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 412.951248 453.497184 
+C 424.443395 464.745384 437.147951 474.6841 450.831658 483.130854 
+C 464.515364 491.577608 479.09396 498.480387 494.299779 503.712456 
+L 565.046406 298.103437 
+L 412.951248 453.497184 
+z
+" style="fill: #fc7f00"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 494.299779 503.712456 
+C 495.059295 503.973793 495.820254 504.230919 496.58262 504.483823 
+C 497.344986 504.736727 498.108747 504.985405 498.873869 505.229846 
+L 565.046406 298.103437 
+L 494.299779 503.712456 
+z
+" style="fill: #ffb900"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 498.873869 505.229846 
+C 503.581341 506.733784 508.338716 508.076802 513.137706 509.256558 
+C 517.936695 510.436315 522.77451 511.452125 527.642719 512.302219 
+L 565.046406 298.103437 
+L 498.873869 505.229846 
+z
+" style="fill: #ebf960"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 527.642719 512.302219 
+C 540.310924 514.514358 553.150437 515.598303 566.010208 515.541301 
+C 578.869979 515.4843 591.699379 514.286576 604.347476 511.962222 
+L 565.046406 298.103437 
+L 527.642719 512.302219 
+z
+" style="fill: #ffe518"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 604.347476 511.962222 
+C 616.995572 509.637867 629.412569 506.196031 641.452386 501.677208 
+C 653.492203 497.158384 665.107439 491.580362 676.161446 485.008765 
+L 565.046406 298.103437 
+L 604.347476 511.962222 
+z
+" style="fill: #ffc303"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 676.161446 485.008765 
+C 694.609876 474.041191 711.333238 460.402385 725.786871 444.53655 
+C 740.240504 428.670715 752.26577 410.751986 761.471019 391.363959 
+L 565.046406 298.103437 
+L 676.161446 485.008765 
+z
+" style="fill: #fd8800"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 761.471019 391.363959 
+C 768.368103 376.837372 773.632481 361.590401 777.167497 345.902981 
+C 780.702513 330.215562 782.4864 314.184293 782.486406 298.103514 
+L 565.046406 298.103437 
+L 761.471019 391.363959 
+z
+" style="fill: #ffb100"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 565.046406 450.311437 
+C 605.412439 450.311437 644.130619 434.273842 672.673715 405.730746 
+C 701.216811 377.18765 717.254406 338.469471 717.254406 298.103437 
+C 717.254406 257.737404 701.216811 219.019225 672.673715 190.476129 
+C 644.130619 161.933033 605.412439 145.895437 565.046406 145.895437 
+C 524.680372 145.895437 485.962193 161.933033 457.419097 190.476129 
+C 428.876001 219.019225 412.838406 257.737404 412.838406 298.103437 
+C 412.838406 338.469471 428.876001 377.18765 457.419097 405.730746 
+C 485.962193 434.273842 524.680372 450.311437 565.046406 450.311437 
+z
+" clip-path="url(#pa0ea0da866)" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="text_1">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="798.379624" y="248.111521" transform="rotate(-0, 798.379624, 248.111521)">C10-C20 isoprenoid biosynthesis, plants</text>
+   </g>
+   <g id="text_2">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="763.65222" y="167.406593" transform="rotate(-0, 763.65222, 167.406593)">Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP =&gt; pimeloyl-ACP</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="687.273023" y="95.09512" transform="rotate(-0, 687.273023, 95.09512)">GABA (gamma-Aminobutyrate) shunt</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="596.045445" y="63.52189" transform="rotate(-0, 596.045445, 63.52189)">Photorespiration</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="536.93021" y="63.104285" transform="rotate(-0, 536.93021, 63.104285)">Methionine salvage pathway</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="487.82701" y="74.314811" transform="rotate(-0, 487.82701, 74.314811)">Leucine degradation, leucine =&gt; acetoacetate + acetyl-CoA</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="433.971156" y="100.559351" transform="rotate(-0, 433.971156, 100.559351)">ADP-L-glycero-D-manno-heptose biosynthesis</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="399.004106" y="128.531301" transform="rotate(-0, 399.004106, 128.531301)">Xanthomonas spp. pathogenicity signature, T3SS and effectors</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="379.462162" y="149.801991" transform="rotate(-0, 379.462162, 149.801991)">Tylosin biosynthesis, methylmalonyl-CoA + malonyl-CoA =&gt; tylactone =&gt; tylosin</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="344.235937" y="208.757685" transform="rotate(-0, 344.235937, 208.757685)">Semi-phosphorylative Entner-Doudoroff pathway, gluconate =&gt; glycerate-3P</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="326.438461" y="284.100746" transform="rotate(-0, 326.438461, 284.100746)">Riboflavin biosynthesis, GTP =&gt; riboflavin--FMN--FAD</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="329.593746" y="342.713618" transform="rotate(-0, 329.593746, 342.713618)">Lysine biosynthesis, acetyl-DAP pathway, aspartate =&gt; lysine</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="342.384109" y="388.046725" transform="rotate(-0, 342.384109, 388.046725)">KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="363.787191" y="429.936912" transform="rotate(-0, 363.787191, 429.936912)">KDO2-lipid A biosynthesis, Raetz pathway, LpxL-LpxM type</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="387.249786" y="460.621712" transform="rotate(-0, 387.249786, 460.621712)">Hydroxypropionate-hydroxybutylate cycle</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="439.410183" y="504.221096" transform="rotate(-0, 439.410183, 504.221096)">Entner-Doudoroff pathway, glucose-6P =&gt; glyceraldehyde-3P + pyruvate</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="489.736241" y="527.709362" transform="rotate(-0, 489.736241, 527.709362)">EHEC--EPEC pathogenicity signature, T3SS and effectors</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="507.946836" y="532.898433" transform="rotate(-0, 507.946836, 532.898433)">Dicarboxylate-hydroxybutyrate cycle</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="566.106589" y="539.872588" transform="rotate(-0, 566.106589, 539.872588)">D-Glucuronate degradation, D-glucuronate =&gt; pyruvate + D-glyceraldehyde 3P</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="649.092984" y="524.622085" transform="rotate(-0, 649.092984, 524.622085)">D-Galacturonate degradation (bacteria), D-galacturonate =&gt; pyruvate + D-glyceraldehyde 3P</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="741.860918" y="461.765018" transform="rotate(-0, 741.860918, 461.765018)">beta-Oxidation</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="798.379606" y="353.209498" transform="rotate(-0, 798.379606, 353.209498)">dTDP-L-olivose biosynthesis</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 18px 'sans-serif'; text-anchor: middle" x="565.046406" y="20.303437" transform="rotate(-0, 565.046406, 20.303437)">Pathway Differences</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa0ea0da866">
+   <rect x="293.246406" y="26.303437" width="543.6" height="543.6"/>
+  </clipPath>
+ </defs>
+</svg>
